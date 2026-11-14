@@ -1,0 +1,17 @@
+# Data and everything derived from it
+datasets/
+data/
+caches/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
